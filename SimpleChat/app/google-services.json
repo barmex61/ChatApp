@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958258754802",
+    "project_id": "chatproject-f2bf2",
+    "storage_bucket": "chatproject-f2bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958258754802:android:cc1817950cc8a117cecc6b",
+        "android_client_info": {
+          "package_name": "com.fatih.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958258754802-sqp5ptq8umtgh3vedtj20sgfvkjemqma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeqQ1-NeiMKSuKehShFg_Xed7E_OfX4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958258754802-sqp5ptq8umtgh3vedtj20sgfvkjemqma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
